@@ -1,0 +1,1 @@
+${urlfetch https://captaincheesebot.github.io/Data/Magic/abilities/${random.1-13}}
