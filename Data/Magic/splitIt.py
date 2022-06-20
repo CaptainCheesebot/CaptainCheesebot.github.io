@@ -1,4 +1,4 @@
-name="abilities"
+name="texts2"
 
 f=open(name+'.txt','r')
 s=f.readline()
