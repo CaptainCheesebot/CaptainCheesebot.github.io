@@ -1,5 +1,4 @@
 Erzeuge einen Schmatzspielstein. XOXOXO
-Erzeuge eine Kopie von Massakerwurm. WUUUUUUUURRRRRRMMMMM!
 Würfle einen W11. Dann erkläre allen, wo man einen W11 herbekommt. 
 Schicke die obersten zwei Karten deiner Bibliothek an Wizards of the Coast und beschwere dich, falls sie nicht foil sind.
 Erzeuge ... pa tie pie di di ... *sing*
@@ -7,7 +6,7 @@ Eine Kreatur deiner Wahl erhält ein Bum-Bum-Eis.
 Eine Kreatur deiner Wahl erhält Meilen.
 Eine Kreatur deiner Wahl erhält Fluchfähigkeit. Verdammter Mist!
 Ein Spieler deiner Wahl opfert sein liebstes Kuscheltier. Wie grausam!
-Opfere einen Spieler deiner Wahl.
+Opfere einen Spieler deiner Wahl. Der Preis ist nicht zu hoch für die Sicherheit solch hübscher Dinge.
 Bringe die Mutter eines Spielers deiner Wahl ins Spiel.
 Übernimm den Monarchen. Den will eh keiner.
 Werde die Initiative. DU bist Magic!
@@ -48,3 +47,6 @@ Komme aus dem Gefängnis frei.
 Du gewinnst den zweiten Platz in einer Schönheitskonkurrenz.
 Du bist zum Vorstand gewählt worden. Zahle jedem Spieler 3 Mana einer beliebigen Farbe.
 Strafe für zu schnelles Fahren: Putze Esikas Streitwagen!
+Erzeuge eine Kopie von Ragavan, flinker Dieb. Hinter dir, ein dreiköpfiger Affe!
+Betreibe rhystische Studien. Möchtest du die Studiengebühren bezahlen?
+Zahle nicht die zwei.
