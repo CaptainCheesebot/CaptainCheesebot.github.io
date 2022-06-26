@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <body>
-p id="scryURL">Name not correct!</p>
+<p id="scryURL">Name not correct!</p>
 <script>
     const card= urlParams.get('card')
     jQuery.getJSON( 'https://api.scryfall.com/cards/named?exact='+card , data, success)
     var json = JSON.parse(data);
     if (json.success==True){
-	document.getElementById("demo").innerHTML = json.scryfall_uri
+	document.getElementById("scryURL").innerHTML = json.scryfall_uri
     }
 
 </script>
