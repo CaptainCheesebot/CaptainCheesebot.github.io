@@ -1,16 +1,43 @@
 <!DOCTYPE html>
 <html>
+<head>
+<script src="https://code.jquery.com/jquery-1.6.4.js"></script>
+</head>
 <body>
-<p id="scryURL">Name not correct!</p>
+<div class="display">Name not recognized!</div>
 <script>
-    const card= urlParams.get('card')
-    jQuery.getJSON( 'https://api.scryfall.com/cards/named?exact='+card , data, success)
-    var json = JSON.parse(data);
-    if (json.success==True){
-	document.getElementById("scryURL").innerHTML = json.scryfall_uri
-    }
 
+function getParameterByName(name, url = window.location.href) {
+    name = name.replace(/[\[\]]/g, '\\$&');
+    var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)'),
+        results = regex.exec(url);
+    if (!results) return null;
+    if (!results[2]) return '';
+    return decodeURIComponent(results[2].replace(/\+/g, ' '));
+}
+
+function getJSONP(url, success) {
+
+    var ud = '_' + +new Date,
+        script = document.createElement('script'),
+        head = document.getElementsByTagName('head')[0] 
+               || document.documentElement;
+
+    window[ud] = function(data) {
+        head.removeChild(script);
+        success && success(data);
+    };
+
+    script.src = url.replace('callback=?', 'callback=' + ud);
+    head.appendChild(script);
+
+}
+	var foo = getParameterByName('card');
+	var url= new URL("https://api.scryfall.com/cards/named?exact="+foo)
+        $.getJSON(url, function(data){
+        var display = `${data.scryfall_uri}`
+        $(".display").html(display);
+        });
 </script>
-
 </body>
 </html>
