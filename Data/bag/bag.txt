@@ -1,7 +1,7 @@
 ein Snickers
 Bum-Bum-Eis
 Wasser
-ein Pesti
+einen Pesti
 eine Batterie
 Propan
 Strings?
@@ -46,3 +46,4 @@ zwei Pestis
 ganz viele Pestis
 Tueddelchen mit einer Armee von Pestis
 veddovahkiin_owd
+einen Uralten Bronzedrachen
