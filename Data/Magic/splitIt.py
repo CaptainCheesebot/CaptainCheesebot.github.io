@@ -1,4 +1,4 @@
-name="t"
+name="c"
 
 f=open(name+'.txt','r')
 s=f.readline()

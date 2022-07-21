@@ -37,7 +37,7 @@ Zeige eine Karte von deiner Hand und lasse die anderen den Künstler raten.
 Du musst in einer anderen Stimmlage sprechen als gewöhnlich.
 Du darfst dich auf dem Schlachtfeld verstecken.
 Zerstöre den ersten Buchstaben einer bleibenden Karte oder eines Spielers deiner Wahl bis zum Ende des Streams.
-Öffne eine verschlossene Magic-Boosterpackung, zeige sie offen vor und nimm eine davon auf die Hand.
+Öffne eine verschlossene Magic-Boosterpackung, zeige sie offen vor und nimm eine Karte davon auf die Hand.
 Dont worry. Be Snappy.
 Du darfst einem Spieler deiner Wahl eine Ja-oder-Nein-Frage stellen.
 Banne eine Karte, die kein Basisland ist bis zum Ende des Streams.
