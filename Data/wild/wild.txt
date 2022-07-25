@@ -31,7 +31,7 @@ Du kannst sofort eine zusätzliche Aktion ausführen.
 Maximiere den Schaden des nächsten Schadenszaubers, den du innerhalb der nächsten Minute wirkst.	
 Jede Kreatur im Umkreis von 30 Fuß um dich erleidet 1W10 nekrotischen Schaden. Du erhältst Trefferpunkte in Höhe der Summe des verursachten nekrotischen Schadens zurück.
 Wirf einen W10. Dein Alter ändert sich um eine Anzahl von Jahren, die dem Ergebnis entspricht. Wenn das Ergebnis ungerade ist, wirst du jünger (mindestens 1 Jahr alt). Wenn das Ergebnis gerade ist, wirst du älter.	
-Du wirkst Spiegelbilder.1W6-Flumphs, die vom DM kontrolliert werden, erscheinen auf unbesetzten Feldern innerhalb von 60 Fuß zu dir und haben Angst vor dir. Sie verschwinden nach 1 Minute.
+Du wirkst Spiegelbilder. 1W6-Flumphs, die vom DM kontrolliert werden, erscheinen auf unbesetzten Feldern innerhalb von 60 Fuß zu dir und haben Angst vor dir. Sie verschwinden nach 1 Minute.
 Du wirkst Fliegen auf eine zufällige Kreatur innerhalb von 60 Fuß zu dir.
 Du erhältst 2W10 Trefferpunkte zurück.	
 Du wirst für die nächste Minute unsichtbar. Während dieser Zeit können dich andere Kreaturen nicht hören. Die Unsichtbarkeit endet, wenn du angreifst oder einen Zauber wirkst.
