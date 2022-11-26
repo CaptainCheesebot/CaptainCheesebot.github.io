@@ -1,5 +1,6 @@
 Berater
 Äthergeborener
+Alien
 Verbündeter
 Engel
 Antilope
@@ -30,6 +31,7 @@ Blinkmotte
 Wildschwein
 Bringer
 Buschköter
+C'tan
 Camarid
 Kamel
 Rentier
@@ -38,14 +40,17 @@ Katze
 Zentaur
 Zephalid
 Hühnchen
+Kind
 Chimäre
 Bürger
 Kleriker
+Clown
 Wolpertinger
 Konstrukt
 Feigling
 Krabbe
 Krokodil
+Custodes
 Zyklop
 Dauthi
 Halbgott
@@ -70,6 +75,7 @@ Elementarwesen
 Elefant
 Elf
 Elch
+Angestellter
 Betrachter
 Fee
 Frettchen
@@ -79,6 +85,7 @@ Fuchs
 Fraktalwesen
 Frosch
 Pilzwesen
+Spieler
 Gargoyle
 Keim
 Riese
@@ -114,6 +121,7 @@ Illusion
 Bold
 Inkarnation
 Tintling
+Inquisitor
 Insekt
 Schakal
 Qualle
@@ -151,6 +159,7 @@ Myr
 Mystiker
 Naga
 Nautilus
+Necron
 Nephalim
 Nachtmahr
 Nachtschrat
@@ -173,6 +182,7 @@ Schuppentier
 Gesinde
 Pegasus
 Pentavit
+Künstler
 Schädling
 Phelddagrif
 Phoenix
@@ -182,6 +192,7 @@ Kneifer
 Pirat
 Pflanze
 Prätor
+Primarch
 Prisma
 Verwerter
 Kaninchen
@@ -190,8 +201,10 @@ Waldläufer
 Ratte
 Rebell
 Reflektion
+Zecher
 Nashorn
 Monteur
+Roboter
 Räuber
 Zobel
 Salamander
@@ -201,7 +214,6 @@ Saproling
 Satyr
 Vogelscheuche
 Spross
-Zecher
 Skorpion
 Späher
 Skulptur
@@ -227,6 +239,7 @@ Spruchwandler
 Sphinx
 Spinne
 Stachel
+Geist
 Splitter
 Schwamm
 Kalmar
@@ -234,6 +247,7 @@ Eichhörnchen
 Seestern
 Surrakar
 Überlebender
+Teddy
 Tentakel
 Tentravit
 Thalakos
@@ -245,6 +259,7 @@ Trilobit
 Triskelavit
 Troll
 Schildkröte
+Tyranid
 Einhorn
 Vampir
 Verdalken

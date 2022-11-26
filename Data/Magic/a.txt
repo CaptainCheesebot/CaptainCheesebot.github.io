@@ -1,13 +1,188 @@
 Erstschlag
-FlugfÃ¤higkeit
+Erstschlag
+Flugfähigkeit
+Flugfähigkeit
+Eile
 Eile
 Doppelschlag
+Doppelschlag
+Trampelschaden
 Trampelschaden
 Wachsamkeit
-TodesberÃ¼hrung
-LebensverknÃ¼pfung
+Wachsamkeit
+Todesberührung
+Todesberührung
+Lebensverknüpfung
+Lebensverknüpfung
+Aufblitzen
 Aufblitzen
 Fluchsicher
-UnzerstÃ¶rbar
+Fluchsicher
+Unzerstörbar
+Unzerstörbar
+Bedrohlich
 Bedrohlich
 Reichweite
+Reichweite
+Ebenentarnung
+Ebenentarnung
+Inseltarnung
+Inseltarnung
+Sumpftarnung
+Sumpftarnung
+Gebirgstarnung
+Gebirgstarnung
+Waldtarnung
+Waldtarnung
+Erstschlag, Flugfähigkeit
+Erstschlag, Eile
+Erstschlag, Trampelschaden
+Erstschlag, Wachsamkeit
+Erstschlag, Todesberührung
+Erstschlag, Lebensverknüpfung
+Erstschlag, Aufblitzen
+Erstschlag, Fluchsicher
+Erstschlag, Unzerstörbar
+Erstschlag, Bedrohlich
+Erstschlag, Reichweite
+Erstschlag, Ebenentarnung
+Erstschlag, Inseltarnung
+Erstschlag, Sumpftarnung
+Erstschlag, Gebirgstarnung
+Erstschlag, Waldtarnung
+Flugfähigkeit, Eile
+Flugfähigkeit, Doppelschlag
+Flugfähigkeit, Trampelschaden
+Flugfähigkeit, Wachsamkeit
+Flugfähigkeit, Todesberührung
+Flugfähigkeit, Lebensverknüpfung
+Flugfähigkeit, Aufblitzen
+Flugfähigkeit, Fluchsicher
+Flugfähigkeit, Unzerstörbar
+Flugfähigkeit, Bedrohlich
+Flugfähigkeit, Reichweite
+Flugfähigkeit, Ebenentarnung
+Flugfähigkeit, Inseltarnung
+Flugfähigkeit, Sumpftarnung
+Flugfähigkeit, Gebirgstarnung
+Flugfähigkeit, Waldtarnung
+Eile, Doppelschlag
+Eile, Trampelschaden
+Eile, Wachsamkeit
+Eile, Todesberührung
+Eile, Lebensverknüpfung
+Eile, Aufblitzen
+Eile, Fluchsicher
+Eile, Unzerstörbar
+Eile, Bedrohlich
+Eile, Reichweite
+Eile, Ebenentarnung
+Eile, Inseltarnung
+Eile, Sumpftarnung
+Eile, Gebirgstarnung
+Eile, Waldtarnung
+Doppelschlag, Trampelschaden
+Doppelschlag, Wachsamkeit
+Doppelschlag, Todesberührung
+Doppelschlag, Lebensverknüpfung
+Doppelschlag, Aufblitzen
+Doppelschlag, Fluchsicher
+Doppelschlag, Unzerstörbar
+Doppelschlag, Bedrohlich
+Doppelschlag, Reichweite
+Doppelschlag, Ebenentarnung
+Doppelschlag, Inseltarnung
+Doppelschlag, Sumpftarnung
+Doppelschlag, Gebirgstarnung
+Doppelschlag, Waldtarnung
+Trampelschaden, Wachsamkeit
+Trampelschaden, Todesberührung
+Trampelschaden, Lebensverknüpfung
+Trampelschaden, Aufblitzen
+Trampelschaden, Fluchsicher
+Trampelschaden, Unzerstörbar
+Trampelschaden, Bedrohlich
+Trampelschaden, Reichweite
+Trampelschaden, Ebenentarnung
+Trampelschaden, Inseltarnung
+Trampelschaden, Sumpftarnung
+Trampelschaden, Gebirgstarnung
+Trampelschaden, Waldtarnung
+Wachsamkeit, Todesberührung
+Wachsamkeit, Lebensverknüpfung
+Wachsamkeit, Aufblitzen
+Wachsamkeit, Fluchsicher
+Wachsamkeit, Unzerstörbar
+Wachsamkeit, Bedrohlich
+Wachsamkeit, Reichweite
+Wachsamkeit, Ebenentarnung
+Wachsamkeit, Inseltarnung
+Wachsamkeit, Sumpftarnung
+Wachsamkeit, Gebirgstarnung
+Wachsamkeit, Waldtarnung
+Todesberührung, Lebensverknüpfung
+Todesberührung, Aufblitzen
+Todesberührung, Fluchsicher
+Todesberührung, Unzerstörbar
+Todesberührung, Bedrohlich
+Todesberührung, Reichweite
+Todesberührung, Ebenentarnung
+Todesberührung, Inseltarnung
+Todesberührung, Sumpftarnung
+Todesberührung, Gebirgstarnung
+Todesberührung, Waldtarnung
+Lebensverknüpfung, Aufblitzen
+Lebensverknüpfung, Fluchsicher
+Lebensverknüpfung, Unzerstörbar
+Lebensverknüpfung, Bedrohlich
+Lebensverknüpfung, Reichweite
+Lebensverknüpfung, Ebenentarnung
+Lebensverknüpfung, Inseltarnung
+Lebensverknüpfung, Sumpftarnung
+Lebensverknüpfung, Gebirgstarnung
+Lebensverknüpfung, Waldtarnung
+Aufblitzen, Fluchsicher
+Aufblitzen, Unzerstörbar
+Aufblitzen, Bedrohlich
+Aufblitzen, Reichweite
+Aufblitzen, Ebenentarnung
+Aufblitzen, Inseltarnung
+Aufblitzen, Sumpftarnung
+Aufblitzen, Gebirgstarnung
+Aufblitzen, Waldtarnung
+Fluchsicher, Unzerstörbar
+Fluchsicher, Bedrohlich
+Fluchsicher, Reichweite
+Fluchsicher, Ebenentarnung
+Fluchsicher, Inseltarnung
+Fluchsicher, Sumpftarnung
+Fluchsicher, Gebirgstarnung
+Fluchsicher, Waldtarnung
+Unzerstörbar, Bedrohlich
+Unzerstörbar, Reichweite
+Unzerstörbar, Ebenentarnung
+Unzerstörbar, Inseltarnung
+Unzerstörbar, Sumpftarnung
+Unzerstörbar, Gebirgstarnung
+Unzerstörbar, Waldtarnung
+Bedrohlich, Reichweite
+Bedrohlich, Ebenentarnung
+Bedrohlich, Inseltarnung
+Bedrohlich, Sumpftarnung
+Bedrohlich, Gebirgstarnung
+Bedrohlich, Waldtarnung
+Reichweite, Ebenentarnung
+Reichweite, Inseltarnung
+Reichweite, Sumpftarnung
+Reichweite, Gebirgstarnung
+Reichweite, Waldtarnung
+Ebenentarnung, Inseltarnung
+Ebenentarnung, Sumpftarnung
+Ebenentarnung, Gebirgstarnung
+Ebenentarnung, Waldtarnung
+Inseltarnung, Sumpftarnung
+Inseltarnung, Gebirgstarnung
+Inseltarnung, Waldtarnung
+Sumpftarnung, Gebirgstarnung
+Sumpftarnung, Waldtarnung
+Gebirgstarnung, Waldtarnung
