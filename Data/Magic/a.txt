@@ -1,7 +1,7 @@
 Erstschlag
 Erstschlag
-Flugfähigkeit
-Flugfähigkeit
+FlugfÃ¤higkeit
+FlugfÃ¤higkeit
 Eile
 Eile
 Doppelschlag
@@ -10,16 +10,16 @@ Trampelschaden
 Trampelschaden
 Wachsamkeit
 Wachsamkeit
-Todesberührung
-Todesberührung
-Lebensverknüpfung
-Lebensverknüpfung
+TodesberÃ¼hrung
+TodesberÃ¼hrung
+LebensverknÃ¼pfung
+LebensverknÃ¼pfung
 Aufblitzen
 Aufblitzen
 Fluchsicher
 Fluchsicher
-Unzerstörbar
-Unzerstörbar
+UnzerstÃ¶rbar
+UnzerstÃ¶rbar
 Bedrohlich
 Bedrohlich
 Reichweite
@@ -34,15 +34,15 @@ Gebirgstarnung
 Gebirgstarnung
 Waldtarnung
 Waldtarnung
-Erstschlag, Flugfähigkeit
+Erstschlag, FlugfÃ¤higkeit
 Erstschlag, Eile
 Erstschlag, Trampelschaden
 Erstschlag, Wachsamkeit
-Erstschlag, Todesberührung
-Erstschlag, Lebensverknüpfung
+Erstschlag, TodesberÃ¼hrung
+Erstschlag, LebensverknÃ¼pfung
 Erstschlag, Aufblitzen
 Erstschlag, Fluchsicher
-Erstschlag, Unzerstörbar
+Erstschlag, UnzerstÃ¶rbar
 Erstschlag, Bedrohlich
 Erstschlag, Reichweite
 Erstschlag, Ebenentarnung
@@ -50,30 +50,30 @@ Erstschlag, Inseltarnung
 Erstschlag, Sumpftarnung
 Erstschlag, Gebirgstarnung
 Erstschlag, Waldtarnung
-Flugfähigkeit, Eile
-Flugfähigkeit, Doppelschlag
-Flugfähigkeit, Trampelschaden
-Flugfähigkeit, Wachsamkeit
-Flugfähigkeit, Todesberührung
-Flugfähigkeit, Lebensverknüpfung
-Flugfähigkeit, Aufblitzen
-Flugfähigkeit, Fluchsicher
-Flugfähigkeit, Unzerstörbar
-Flugfähigkeit, Bedrohlich
-Flugfähigkeit, Reichweite
-Flugfähigkeit, Ebenentarnung
-Flugfähigkeit, Inseltarnung
-Flugfähigkeit, Sumpftarnung
-Flugfähigkeit, Gebirgstarnung
-Flugfähigkeit, Waldtarnung
+FlugfÃ¤higkeit, Eile
+FlugfÃ¤higkeit, Doppelschlag
+FlugfÃ¤higkeit, Trampelschaden
+FlugfÃ¤higkeit, Wachsamkeit
+FlugfÃ¤higkeit, TodesberÃ¼hrung
+FlugfÃ¤higkeit, LebensverknÃ¼pfung
+FlugfÃ¤higkeit, Aufblitzen
+FlugfÃ¤higkeit, Fluchsicher
+FlugfÃ¤higkeit, UnzerstÃ¶rbar
+FlugfÃ¤higkeit, Bedrohlich
+FlugfÃ¤higkeit, Reichweite
+FlugfÃ¤higkeit, Ebenentarnung
+FlugfÃ¤higkeit, Inseltarnung
+FlugfÃ¤higkeit, Sumpftarnung
+FlugfÃ¤higkeit, Gebirgstarnung
+FlugfÃ¤higkeit, Waldtarnung
 Eile, Doppelschlag
 Eile, Trampelschaden
 Eile, Wachsamkeit
-Eile, Todesberührung
-Eile, Lebensverknüpfung
+Eile, TodesberÃ¼hrung
+Eile, LebensverknÃ¼pfung
 Eile, Aufblitzen
 Eile, Fluchsicher
-Eile, Unzerstörbar
+Eile, UnzerstÃ¶rbar
 Eile, Bedrohlich
 Eile, Reichweite
 Eile, Ebenentarnung
@@ -83,11 +83,11 @@ Eile, Gebirgstarnung
 Eile, Waldtarnung
 Doppelschlag, Trampelschaden
 Doppelschlag, Wachsamkeit
-Doppelschlag, Todesberührung
-Doppelschlag, Lebensverknüpfung
+Doppelschlag, TodesberÃ¼hrung
+Doppelschlag, LebensverknÃ¼pfung
 Doppelschlag, Aufblitzen
 Doppelschlag, Fluchsicher
-Doppelschlag, Unzerstörbar
+Doppelschlag, UnzerstÃ¶rbar
 Doppelschlag, Bedrohlich
 Doppelschlag, Reichweite
 Doppelschlag, Ebenentarnung
@@ -96,11 +96,11 @@ Doppelschlag, Sumpftarnung
 Doppelschlag, Gebirgstarnung
 Doppelschlag, Waldtarnung
 Trampelschaden, Wachsamkeit
-Trampelschaden, Todesberührung
-Trampelschaden, Lebensverknüpfung
+Trampelschaden, TodesberÃ¼hrung
+Trampelschaden, LebensverknÃ¼pfung
 Trampelschaden, Aufblitzen
 Trampelschaden, Fluchsicher
-Trampelschaden, Unzerstörbar
+Trampelschaden, UnzerstÃ¶rbar
 Trampelschaden, Bedrohlich
 Trampelschaden, Reichweite
 Trampelschaden, Ebenentarnung
@@ -108,11 +108,11 @@ Trampelschaden, Inseltarnung
 Trampelschaden, Sumpftarnung
 Trampelschaden, Gebirgstarnung
 Trampelschaden, Waldtarnung
-Wachsamkeit, Todesberührung
-Wachsamkeit, Lebensverknüpfung
+Wachsamkeit, TodesberÃ¼hrung
+Wachsamkeit, LebensverknÃ¼pfung
 Wachsamkeit, Aufblitzen
 Wachsamkeit, Fluchsicher
-Wachsamkeit, Unzerstörbar
+Wachsamkeit, UnzerstÃ¶rbar
 Wachsamkeit, Bedrohlich
 Wachsamkeit, Reichweite
 Wachsamkeit, Ebenentarnung
@@ -120,29 +120,29 @@ Wachsamkeit, Inseltarnung
 Wachsamkeit, Sumpftarnung
 Wachsamkeit, Gebirgstarnung
 Wachsamkeit, Waldtarnung
-Todesberührung, Lebensverknüpfung
-Todesberührung, Aufblitzen
-Todesberührung, Fluchsicher
-Todesberührung, Unzerstörbar
-Todesberührung, Bedrohlich
-Todesberührung, Reichweite
-Todesberührung, Ebenentarnung
-Todesberührung, Inseltarnung
-Todesberührung, Sumpftarnung
-Todesberührung, Gebirgstarnung
-Todesberührung, Waldtarnung
-Lebensverknüpfung, Aufblitzen
-Lebensverknüpfung, Fluchsicher
-Lebensverknüpfung, Unzerstörbar
-Lebensverknüpfung, Bedrohlich
-Lebensverknüpfung, Reichweite
-Lebensverknüpfung, Ebenentarnung
-Lebensverknüpfung, Inseltarnung
-Lebensverknüpfung, Sumpftarnung
-Lebensverknüpfung, Gebirgstarnung
-Lebensverknüpfung, Waldtarnung
+TodesberÃ¼hrung, LebensverknÃ¼pfung
+TodesberÃ¼hrung, Aufblitzen
+TodesberÃ¼hrung, Fluchsicher
+TodesberÃ¼hrung, UnzerstÃ¶rbar
+TodesberÃ¼hrung, Bedrohlich
+TodesberÃ¼hrung, Reichweite
+TodesberÃ¼hrung, Ebenentarnung
+TodesberÃ¼hrung, Inseltarnung
+TodesberÃ¼hrung, Sumpftarnung
+TodesberÃ¼hrung, Gebirgstarnung
+TodesberÃ¼hrung, Waldtarnung
+LebensverknÃ¼pfung, Aufblitzen
+LebensverknÃ¼pfung, Fluchsicher
+LebensverknÃ¼pfung, UnzerstÃ¶rbar
+LebensverknÃ¼pfung, Bedrohlich
+LebensverknÃ¼pfung, Reichweite
+LebensverknÃ¼pfung, Ebenentarnung
+LebensverknÃ¼pfung, Inseltarnung
+LebensverknÃ¼pfung, Sumpftarnung
+LebensverknÃ¼pfung, Gebirgstarnung
+LebensverknÃ¼pfung, Waldtarnung
 Aufblitzen, Fluchsicher
-Aufblitzen, Unzerstörbar
+Aufblitzen, UnzerstÃ¶rbar
 Aufblitzen, Bedrohlich
 Aufblitzen, Reichweite
 Aufblitzen, Ebenentarnung
@@ -150,7 +150,7 @@ Aufblitzen, Inseltarnung
 Aufblitzen, Sumpftarnung
 Aufblitzen, Gebirgstarnung
 Aufblitzen, Waldtarnung
-Fluchsicher, Unzerstörbar
+Fluchsicher, UnzerstÃ¶rbar
 Fluchsicher, Bedrohlich
 Fluchsicher, Reichweite
 Fluchsicher, Ebenentarnung
@@ -158,13 +158,13 @@ Fluchsicher, Inseltarnung
 Fluchsicher, Sumpftarnung
 Fluchsicher, Gebirgstarnung
 Fluchsicher, Waldtarnung
-Unzerstörbar, Bedrohlich
-Unzerstörbar, Reichweite
-Unzerstörbar, Ebenentarnung
-Unzerstörbar, Inseltarnung
-Unzerstörbar, Sumpftarnung
-Unzerstörbar, Gebirgstarnung
-Unzerstörbar, Waldtarnung
+UnzerstÃ¶rbar, Bedrohlich
+UnzerstÃ¶rbar, Reichweite
+UnzerstÃ¶rbar, Ebenentarnung
+UnzerstÃ¶rbar, Inseltarnung
+UnzerstÃ¶rbar, Sumpftarnung
+UnzerstÃ¶rbar, Gebirgstarnung
+UnzerstÃ¶rbar, Waldtarnung
 Bedrohlich, Reichweite
 Bedrohlich, Ebenentarnung
 Bedrohlich, Inseltarnung
