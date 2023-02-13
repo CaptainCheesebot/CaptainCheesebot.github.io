@@ -17,6 +17,7 @@ Auerochse
 Avatar
 Azra
 Dachs
+Ballon
 Barbar
 Barde
 Basilisk
@@ -147,6 +148,7 @@ Meervolk
 Schiff
 Diener
 Minotaurus
+Milbe
 Maulwurf
 Freihändler
 Meerkatze
