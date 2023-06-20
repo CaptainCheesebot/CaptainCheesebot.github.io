@@ -30,6 +30,7 @@ Berserker
 Vogel
 Blinkmotte
 Wildschwein
+Brainiac
 Bringer
 Buschköter
 C'tan
@@ -244,6 +245,7 @@ Stachel
 Geist
 Splitter
 Schwamm
+Spion
 Kalmar
 Eichhörnchen
 Seestern
