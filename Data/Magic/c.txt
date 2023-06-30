@@ -41,7 +41,7 @@ Zerstöre den ersten Buchstaben einer bleibenden Karte oder eines Spielers deine
 Dont worry. Be Snappy.
 Du darfst einem Spieler deiner Wahl eine Ja-oder-Nein-Frage stellen.
 Banne eine Karte, die kein Basisland ist bis zum Ende des Streams.
-Gehe in das Gefängnis. Begib dich direkt dorthin. Gehe nicht über LOS und ziehe keine Karte in der nächsten Versorgungsphase.
+Gehe in das Gefängnis. Begib dich direkt dorthin. Gehe nicht über LOS und ziehe keine Karte in der nächsten Startphase.
 Schicke eine Kreatur deiner Wahl ins Exil. Dann entferne sie aus dem Spiel. Dann lege sie in die Absolut-für-immer-aus-dem-verdammten-Spiel-entfernt-Zone.
 Komme aus dem Gefängnis frei.
 Du gewinnst den zweiten Platz in einer Schönheitskonkurrenz.
