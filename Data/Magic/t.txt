@@ -36,6 +36,7 @@ Buschköter
 C'tan
 Camarid
 Kamel
+Wasserschwein
 Rentier
 Überträger
 Katze
@@ -142,6 +143,7 @@ Leviathan
 Lhurgoyf
 Zecke
 Eidechse
+Lama
 Mantikor
 Mastikor
 Söldner
@@ -233,6 +235,7 @@ Skelett
 Slith
 Remasuri
 Schnecke
+Gehäuseschnecke
 Schlange
 Soldat
 Soltari
