@@ -1,29 +1,3 @@
-Erstschlag
-Erstschlag
-FlugfÃ¤higkeit
-FlugfÃ¤higkeit
-Eile
-Eile
-Doppelschlag
-Doppelschlag
-Trampelschaden
-Trampelschaden
-Wachsamkeit
-Wachsamkeit
-TodesberÃ¼hrung
-TodesberÃ¼hrung
-LebensverknÃ¼pfung
-LebensverknÃ¼pfung
-Aufblitzen
-Aufblitzen
-Fluchsicher
-Fluchsicher
-UnzerstÃ¶rbar
-UnzerstÃ¶rbar
-Bedrohlich
-Bedrohlich
-Reichweite
-Reichweite
 Ebenentarnung
 Ebenentarnung
 Inseltarnung
@@ -34,155 +8,503 @@ Gebirgstarnung
 Gebirgstarnung
 Waldtarnung
 Waldtarnung
-Erstschlag, FlugfÃ¤higkeit
-Erstschlag, Eile
-Erstschlag, Trampelschaden
-Erstschlag, Wachsamkeit
-Erstschlag, TodesberÃ¼hrung
-Erstschlag, LebensverknÃ¼pfung
-Erstschlag, Aufblitzen
-Erstschlag, Fluchsicher
-Erstschlag, UnzerstÃ¶rbar
-Erstschlag, Bedrohlich
-Erstschlag, Reichweite
-Erstschlag, Ebenentarnung
-Erstschlag, Inseltarnung
-Erstschlag, Sumpftarnung
-Erstschlag, Gebirgstarnung
-Erstschlag, Waldtarnung
-FlugfÃ¤higkeit, Eile
-FlugfÃ¤higkeit, Doppelschlag
-FlugfÃ¤higkeit, Trampelschaden
-FlugfÃ¤higkeit, Wachsamkeit
-FlugfÃ¤higkeit, TodesberÃ¼hrung
-FlugfÃ¤higkeit, LebensverknÃ¼pfung
-FlugfÃ¤higkeit, Aufblitzen
-FlugfÃ¤higkeit, Fluchsicher
-FlugfÃ¤higkeit, UnzerstÃ¶rbar
-FlugfÃ¤higkeit, Bedrohlich
-FlugfÃ¤higkeit, Reichweite
-FlugfÃ¤higkeit, Ebenentarnung
-FlugfÃ¤higkeit, Inseltarnung
-FlugfÃ¤higkeit, Sumpftarnung
-FlugfÃ¤higkeit, Gebirgstarnung
-FlugfÃ¤higkeit, Waldtarnung
-Eile, Doppelschlag
-Eile, Trampelschaden
-Eile, Wachsamkeit
-Eile, TodesberÃ¼hrung
-Eile, LebensverknÃ¼pfung
-Eile, Aufblitzen
-Eile, Fluchsicher
-Eile, UnzerstÃ¶rbar
-Eile, Bedrohlich
-Eile, Reichweite
-Eile, Ebenentarnung
-Eile, Inseltarnung
-Eile, Sumpftarnung
-Eile, Gebirgstarnung
-Eile, Waldtarnung
-Doppelschlag, Trampelschaden
-Doppelschlag, Wachsamkeit
-Doppelschlag, TodesberÃ¼hrung
-Doppelschlag, LebensverknÃ¼pfung
-Doppelschlag, Aufblitzen
-Doppelschlag, Fluchsicher
-Doppelschlag, UnzerstÃ¶rbar
-Doppelschlag, Bedrohlich
-Doppelschlag, Reichweite
-Doppelschlag, Ebenentarnung
-Doppelschlag, Inseltarnung
-Doppelschlag, Sumpftarnung
-Doppelschlag, Gebirgstarnung
-Doppelschlag, Waldtarnung
-Trampelschaden, Wachsamkeit
-Trampelschaden, TodesberÃ¼hrung
-Trampelschaden, LebensverknÃ¼pfung
-Trampelschaden, Aufblitzen
-Trampelschaden, Fluchsicher
-Trampelschaden, UnzerstÃ¶rbar
-Trampelschaden, Bedrohlich
-Trampelschaden, Reichweite
-Trampelschaden, Ebenentarnung
-Trampelschaden, Inseltarnung
-Trampelschaden, Sumpftarnung
-Trampelschaden, Gebirgstarnung
-Trampelschaden, Waldtarnung
-Wachsamkeit, TodesberÃ¼hrung
-Wachsamkeit, LebensverknÃ¼pfung
-Wachsamkeit, Aufblitzen
-Wachsamkeit, Fluchsicher
-Wachsamkeit, UnzerstÃ¶rbar
-Wachsamkeit, Bedrohlich
-Wachsamkeit, Reichweite
-Wachsamkeit, Ebenentarnung
-Wachsamkeit, Inseltarnung
-Wachsamkeit, Sumpftarnung
-Wachsamkeit, Gebirgstarnung
-Wachsamkeit, Waldtarnung
-TodesberÃ¼hrung, LebensverknÃ¼pfung
-TodesberÃ¼hrung, Aufblitzen
-TodesberÃ¼hrung, Fluchsicher
-TodesberÃ¼hrung, UnzerstÃ¶rbar
-TodesberÃ¼hrung, Bedrohlich
-TodesberÃ¼hrung, Reichweite
-TodesberÃ¼hrung, Ebenentarnung
-TodesberÃ¼hrung, Inseltarnung
-TodesberÃ¼hrung, Sumpftarnung
-TodesberÃ¼hrung, Gebirgstarnung
-TodesberÃ¼hrung, Waldtarnung
-LebensverknÃ¼pfung, Aufblitzen
-LebensverknÃ¼pfung, Fluchsicher
-LebensverknÃ¼pfung, UnzerstÃ¶rbar
-LebensverknÃ¼pfung, Bedrohlich
-LebensverknÃ¼pfung, Reichweite
-LebensverknÃ¼pfung, Ebenentarnung
-LebensverknÃ¼pfung, Inseltarnung
-LebensverknÃ¼pfung, Sumpftarnung
-LebensverknÃ¼pfung, Gebirgstarnung
-LebensverknÃ¼pfung, Waldtarnung
-Aufblitzen, Fluchsicher
-Aufblitzen, UnzerstÃ¶rbar
-Aufblitzen, Bedrohlich
-Aufblitzen, Reichweite
-Aufblitzen, Ebenentarnung
-Aufblitzen, Inseltarnung
-Aufblitzen, Sumpftarnung
-Aufblitzen, Gebirgstarnung
-Aufblitzen, Waldtarnung
-Fluchsicher, UnzerstÃ¶rbar
-Fluchsicher, Bedrohlich
-Fluchsicher, Reichweite
-Fluchsicher, Ebenentarnung
-Fluchsicher, Inseltarnung
-Fluchsicher, Sumpftarnung
-Fluchsicher, Gebirgstarnung
-Fluchsicher, Waldtarnung
-UnzerstÃ¶rbar, Bedrohlich
-UnzerstÃ¶rbar, Reichweite
-UnzerstÃ¶rbar, Ebenentarnung
-UnzerstÃ¶rbar, Inseltarnung
-UnzerstÃ¶rbar, Sumpftarnung
-UnzerstÃ¶rbar, Gebirgstarnung
-UnzerstÃ¶rbar, Waldtarnung
-Bedrohlich, Reichweite
-Bedrohlich, Ebenentarnung
-Bedrohlich, Inseltarnung
-Bedrohlich, Sumpftarnung
-Bedrohlich, Gebirgstarnung
-Bedrohlich, Waldtarnung
-Reichweite, Ebenentarnung
-Reichweite, Inseltarnung
-Reichweite, Sumpftarnung
-Reichweite, Gebirgstarnung
-Reichweite, Waldtarnung
+Erstschlag
+Erstschlag
+Flugfähigkeit
+Flugfähigkeit
+Eile
+Eile
+Doppelschlag
+Doppelschlag
+Trampelschaden
+Trampelschaden
+Wachsamkeit
+Wachsamkeit
+Todesberührung
+Todesberührung
+Lebensverknüpfung
+Lebensverknüpfung
+Aufblitzen
+Aufblitzen
+Fluchsicher
+Fluchsicher
+Unzerstörbar
+Unzerstörbar
+Bedrohlich
+Bedrohlich
+Reichweite
+Reichweite
+Erstschlag
+Erstschlag
+Flugfähigkeit
+Flugfähigkeit
+Eile
+Eile
+Doppelschlag
+Doppelschlag
+Trampelschaden
+Trampelschaden
+Wachsamkeit
+Wachsamkeit
+Todesberührung
+Todesberührung
+Lebensverknüpfung
+Lebensverknüpfung
+Aufblitzen
+Aufblitzen
+Fluchsicher
+Fluchsicher
+Unzerstörbar
+Unzerstörbar
+Bedrohlich
+Bedrohlich
+Reichweite
+Reichweite
 Ebenentarnung, Inseltarnung
 Ebenentarnung, Sumpftarnung
 Ebenentarnung, Gebirgstarnung
 Ebenentarnung, Waldtarnung
+Ebenentarnung, Erstschlag
+Ebenentarnung, Flugfähigkeit
+Ebenentarnung, Eile
+Ebenentarnung, Doppelschlag
+Ebenentarnung, Trampelschaden
+Ebenentarnung, Wachsamkeit
+Ebenentarnung, Todesberührung
+Ebenentarnung, Lebensverknüpfung
+Ebenentarnung, Aufblitzen
+Ebenentarnung, Fluchsicher
+Ebenentarnung, Unzerstörbar
+Ebenentarnung, Bedrohlich
+Ebenentarnung, Reichweite
+Ebenentarnung, Erstschlag
+Ebenentarnung, Flugfähigkeit
+Ebenentarnung, Eile
+Ebenentarnung, Doppelschlag
+Ebenentarnung, Trampelschaden
+Ebenentarnung, Wachsamkeit
+Ebenentarnung, Todesberührung
+Ebenentarnung, Lebensverknüpfung
+Ebenentarnung, Aufblitzen
+Ebenentarnung, Fluchsicher
+Ebenentarnung, Unzerstörbar
+Ebenentarnung, Bedrohlich
+Ebenentarnung, Reichweite
 Inseltarnung, Sumpftarnung
 Inseltarnung, Gebirgstarnung
 Inseltarnung, Waldtarnung
+Inseltarnung, Erstschlag
+Inseltarnung, Flugfähigkeit
+Inseltarnung, Eile
+Inseltarnung, Doppelschlag
+Inseltarnung, Trampelschaden
+Inseltarnung, Wachsamkeit
+Inseltarnung, Todesberührung
+Inseltarnung, Lebensverknüpfung
+Inseltarnung, Aufblitzen
+Inseltarnung, Fluchsicher
+Inseltarnung, Unzerstörbar
+Inseltarnung, Bedrohlich
+Inseltarnung, Reichweite
+Inseltarnung, Erstschlag
+Inseltarnung, Flugfähigkeit
+Inseltarnung, Eile
+Inseltarnung, Doppelschlag
+Inseltarnung, Trampelschaden
+Inseltarnung, Wachsamkeit
+Inseltarnung, Todesberührung
+Inseltarnung, Lebensverknüpfung
+Inseltarnung, Aufblitzen
+Inseltarnung, Fluchsicher
+Inseltarnung, Unzerstörbar
+Inseltarnung, Bedrohlich
+Inseltarnung, Reichweite
 Sumpftarnung, Gebirgstarnung
 Sumpftarnung, Waldtarnung
+Sumpftarnung, Erstschlag
+Sumpftarnung, Flugfähigkeit
+Sumpftarnung, Eile
+Sumpftarnung, Doppelschlag
+Sumpftarnung, Trampelschaden
+Sumpftarnung, Wachsamkeit
+Sumpftarnung, Todesberührung
+Sumpftarnung, Lebensverknüpfung
+Sumpftarnung, Aufblitzen
+Sumpftarnung, Fluchsicher
+Sumpftarnung, Unzerstörbar
+Sumpftarnung, Bedrohlich
+Sumpftarnung, Reichweite
+Sumpftarnung, Erstschlag
+Sumpftarnung, Flugfähigkeit
+Sumpftarnung, Eile
+Sumpftarnung, Doppelschlag
+Sumpftarnung, Trampelschaden
+Sumpftarnung, Wachsamkeit
+Sumpftarnung, Todesberührung
+Sumpftarnung, Lebensverknüpfung
+Sumpftarnung, Aufblitzen
+Sumpftarnung, Fluchsicher
+Sumpftarnung, Unzerstörbar
+Sumpftarnung, Bedrohlich
+Sumpftarnung, Reichweite
 Gebirgstarnung, Waldtarnung
+Gebirgstarnung, Erstschlag
+Gebirgstarnung, Flugfähigkeit
+Gebirgstarnung, Eile
+Gebirgstarnung, Doppelschlag
+Gebirgstarnung, Trampelschaden
+Gebirgstarnung, Wachsamkeit
+Gebirgstarnung, Todesberührung
+Gebirgstarnung, Lebensverknüpfung
+Gebirgstarnung, Aufblitzen
+Gebirgstarnung, Fluchsicher
+Gebirgstarnung, Unzerstörbar
+Gebirgstarnung, Bedrohlich
+Gebirgstarnung, Reichweite
+Gebirgstarnung, Erstschlag
+Gebirgstarnung, Flugfähigkeit
+Gebirgstarnung, Eile
+Gebirgstarnung, Doppelschlag
+Gebirgstarnung, Trampelschaden
+Gebirgstarnung, Wachsamkeit
+Gebirgstarnung, Todesberührung
+Gebirgstarnung, Lebensverknüpfung
+Gebirgstarnung, Aufblitzen
+Gebirgstarnung, Fluchsicher
+Gebirgstarnung, Unzerstörbar
+Gebirgstarnung, Bedrohlich
+Gebirgstarnung, Reichweite
+Waldtarnung, Erstschlag
+Waldtarnung, Flugfähigkeit
+Waldtarnung, Eile
+Waldtarnung, Doppelschlag
+Waldtarnung, Trampelschaden
+Waldtarnung, Wachsamkeit
+Waldtarnung, Todesberührung
+Waldtarnung, Lebensverknüpfung
+Waldtarnung, Aufblitzen
+Waldtarnung, Fluchsicher
+Waldtarnung, Unzerstörbar
+Waldtarnung, Bedrohlich
+Waldtarnung, Reichweite
+Waldtarnung, Erstschlag
+Waldtarnung, Flugfähigkeit
+Waldtarnung, Eile
+Waldtarnung, Doppelschlag
+Waldtarnung, Trampelschaden
+Waldtarnung, Wachsamkeit
+Waldtarnung, Todesberührung
+Waldtarnung, Lebensverknüpfung
+Waldtarnung, Aufblitzen
+Waldtarnung, Fluchsicher
+Waldtarnung, Unzerstörbar
+Waldtarnung, Bedrohlich
+Waldtarnung, Reichweite
+Erstschlag, Flugfähigkeit
+Erstschlag, Eile
+Erstschlag, Trampelschaden
+Erstschlag, Wachsamkeit
+Erstschlag, Todesberührung
+Erstschlag, Lebensverknüpfung
+Erstschlag, Aufblitzen
+Erstschlag, Fluchsicher
+Erstschlag, Unzerstörbar
+Erstschlag, Bedrohlich
+Erstschlag, Reichweite
+Erstschlag, Flugfähigkeit
+Erstschlag, Eile
+Erstschlag, Trampelschaden
+Erstschlag, Wachsamkeit
+Erstschlag, Todesberührung
+Erstschlag, Lebensverknüpfung
+Erstschlag, Aufblitzen
+Erstschlag, Fluchsicher
+Erstschlag, Unzerstörbar
+Erstschlag, Bedrohlich
+Erstschlag, Reichweite
+Flugfähigkeit, Eile
+Flugfähigkeit, Doppelschlag
+Flugfähigkeit, Trampelschaden
+Flugfähigkeit, Wachsamkeit
+Flugfähigkeit, Todesberührung
+Flugfähigkeit, Lebensverknüpfung
+Flugfähigkeit, Aufblitzen
+Flugfähigkeit, Fluchsicher
+Flugfähigkeit, Unzerstörbar
+Flugfähigkeit, Bedrohlich
+Flugfähigkeit, Reichweite
+Flugfähigkeit, Erstschlag
+Flugfähigkeit, Eile
+Flugfähigkeit, Doppelschlag
+Flugfähigkeit, Trampelschaden
+Flugfähigkeit, Wachsamkeit
+Flugfähigkeit, Todesberührung
+Flugfähigkeit, Lebensverknüpfung
+Flugfähigkeit, Aufblitzen
+Flugfähigkeit, Fluchsicher
+Flugfähigkeit, Unzerstörbar
+Flugfähigkeit, Bedrohlich
+Flugfähigkeit, Reichweite
+Eile, Doppelschlag
+Eile, Trampelschaden
+Eile, Wachsamkeit
+Eile, Todesberührung
+Eile, Lebensverknüpfung
+Eile, Aufblitzen
+Eile, Fluchsicher
+Eile, Unzerstörbar
+Eile, Bedrohlich
+Eile, Reichweite
+Eile, Erstschlag
+Eile, Flugfähigkeit
+Eile, Doppelschlag
+Eile, Trampelschaden
+Eile, Wachsamkeit
+Eile, Todesberührung
+Eile, Lebensverknüpfung
+Eile, Aufblitzen
+Eile, Fluchsicher
+Eile, Unzerstörbar
+Eile, Bedrohlich
+Eile, Reichweite
+Doppelschlag, Trampelschaden
+Doppelschlag, Wachsamkeit
+Doppelschlag, Todesberührung
+Doppelschlag, Lebensverknüpfung
+Doppelschlag, Aufblitzen
+Doppelschlag, Fluchsicher
+Doppelschlag, Unzerstörbar
+Doppelschlag, Bedrohlich
+Doppelschlag, Reichweite
+Doppelschlag, Flugfähigkeit
+Doppelschlag, Eile
+Doppelschlag, Trampelschaden
+Doppelschlag, Wachsamkeit
+Doppelschlag, Todesberührung
+Doppelschlag, Lebensverknüpfung
+Doppelschlag, Aufblitzen
+Doppelschlag, Fluchsicher
+Doppelschlag, Unzerstörbar
+Doppelschlag, Bedrohlich
+Doppelschlag, Reichweite
+Trampelschaden, Wachsamkeit
+Trampelschaden, Todesberührung
+Trampelschaden, Lebensverknüpfung
+Trampelschaden, Aufblitzen
+Trampelschaden, Fluchsicher
+Trampelschaden, Unzerstörbar
+Trampelschaden, Bedrohlich
+Trampelschaden, Reichweite
+Trampelschaden, Erstschlag
+Trampelschaden, Flugfähigkeit
+Trampelschaden, Eile
+Trampelschaden, Doppelschlag
+Trampelschaden, Wachsamkeit
+Trampelschaden, Todesberührung
+Trampelschaden, Lebensverknüpfung
+Trampelschaden, Aufblitzen
+Trampelschaden, Fluchsicher
+Trampelschaden, Unzerstörbar
+Trampelschaden, Bedrohlich
+Trampelschaden, Reichweite
+Wachsamkeit, Todesberührung
+Wachsamkeit, Lebensverknüpfung
+Wachsamkeit, Aufblitzen
+Wachsamkeit, Fluchsicher
+Wachsamkeit, Unzerstörbar
+Wachsamkeit, Bedrohlich
+Wachsamkeit, Reichweite
+Wachsamkeit, Erstschlag
+Wachsamkeit, Flugfähigkeit
+Wachsamkeit, Eile
+Wachsamkeit, Doppelschlag
+Wachsamkeit, Trampelschaden
+Wachsamkeit, Todesberührung
+Wachsamkeit, Lebensverknüpfung
+Wachsamkeit, Aufblitzen
+Wachsamkeit, Fluchsicher
+Wachsamkeit, Unzerstörbar
+Wachsamkeit, Bedrohlich
+Wachsamkeit, Reichweite
+Todesberührung, Lebensverknüpfung
+Todesberührung, Aufblitzen
+Todesberührung, Fluchsicher
+Todesberührung, Unzerstörbar
+Todesberührung, Bedrohlich
+Todesberührung, Reichweite
+Todesberührung, Erstschlag
+Todesberührung, Flugfähigkeit
+Todesberührung, Eile
+Todesberührung, Doppelschlag
+Todesberührung, Trampelschaden
+Todesberührung, Wachsamkeit
+Todesberührung, Lebensverknüpfung
+Todesberührung, Aufblitzen
+Todesberührung, Fluchsicher
+Todesberührung, Unzerstörbar
+Todesberührung, Bedrohlich
+Todesberührung, Reichweite
+Lebensverknüpfung, Aufblitzen
+Lebensverknüpfung, Fluchsicher
+Lebensverknüpfung, Unzerstörbar
+Lebensverknüpfung, Bedrohlich
+Lebensverknüpfung, Reichweite
+Lebensverknüpfung, Erstschlag
+Lebensverknüpfung, Flugfähigkeit
+Lebensverknüpfung, Eile
+Lebensverknüpfung, Doppelschlag
+Lebensverknüpfung, Trampelschaden
+Lebensverknüpfung, Wachsamkeit
+Lebensverknüpfung, Todesberührung
+Lebensverknüpfung, Aufblitzen
+Lebensverknüpfung, Fluchsicher
+Lebensverknüpfung, Unzerstörbar
+Lebensverknüpfung, Bedrohlich
+Lebensverknüpfung, Reichweite
+Aufblitzen, Fluchsicher
+Aufblitzen, Unzerstörbar
+Aufblitzen, Bedrohlich
+Aufblitzen, Reichweite
+Aufblitzen, Erstschlag
+Aufblitzen, Flugfähigkeit
+Aufblitzen, Eile
+Aufblitzen, Doppelschlag
+Aufblitzen, Trampelschaden
+Aufblitzen, Wachsamkeit
+Aufblitzen, Todesberührung
+Aufblitzen, Lebensverknüpfung
+Aufblitzen, Fluchsicher
+Aufblitzen, Unzerstörbar
+Aufblitzen, Bedrohlich
+Aufblitzen, Reichweite
+Fluchsicher, Unzerstörbar
+Fluchsicher, Bedrohlich
+Fluchsicher, Reichweite
+Fluchsicher, Erstschlag
+Fluchsicher, Flugfähigkeit
+Fluchsicher, Eile
+Fluchsicher, Doppelschlag
+Fluchsicher, Trampelschaden
+Fluchsicher, Wachsamkeit
+Fluchsicher, Todesberührung
+Fluchsicher, Lebensverknüpfung
+Fluchsicher, Aufblitzen
+Fluchsicher, Unzerstörbar
+Fluchsicher, Bedrohlich
+Fluchsicher, Reichweite
+Unzerstörbar, Bedrohlich
+Unzerstörbar, Reichweite
+Unzerstörbar, Erstschlag
+Unzerstörbar, Flugfähigkeit
+Unzerstörbar, Eile
+Unzerstörbar, Doppelschlag
+Unzerstörbar, Trampelschaden
+Unzerstörbar, Wachsamkeit
+Unzerstörbar, Todesberührung
+Unzerstörbar, Lebensverknüpfung
+Unzerstörbar, Aufblitzen
+Unzerstörbar, Fluchsicher
+Unzerstörbar, Bedrohlich
+Unzerstörbar, Reichweite
+Bedrohlich, Reichweite
+Bedrohlich, Erstschlag
+Bedrohlich, Flugfähigkeit
+Bedrohlich, Eile
+Bedrohlich, Doppelschlag
+Bedrohlich, Trampelschaden
+Bedrohlich, Wachsamkeit
+Bedrohlich, Todesberührung
+Bedrohlich, Lebensverknüpfung
+Bedrohlich, Aufblitzen
+Bedrohlich, Fluchsicher
+Bedrohlich, Unzerstörbar
+Bedrohlich, Reichweite
+Reichweite, Erstschlag
+Reichweite, Flugfähigkeit
+Reichweite, Eile
+Reichweite, Doppelschlag
+Reichweite, Trampelschaden
+Reichweite, Wachsamkeit
+Reichweite, Todesberührung
+Reichweite, Lebensverknüpfung
+Reichweite, Aufblitzen
+Reichweite, Fluchsicher
+Reichweite, Unzerstörbar
+Reichweite, Bedrohlich
+Erstschlag, Flugfähigkeit
+Erstschlag, Eile
+Erstschlag, Trampelschaden
+Erstschlag, Wachsamkeit
+Erstschlag, Todesberührung
+Erstschlag, Lebensverknüpfung
+Erstschlag, Aufblitzen
+Erstschlag, Fluchsicher
+Erstschlag, Unzerstörbar
+Erstschlag, Bedrohlich
+Erstschlag, Reichweite
+Flugfähigkeit, Eile
+Flugfähigkeit, Doppelschlag
+Flugfähigkeit, Trampelschaden
+Flugfähigkeit, Wachsamkeit
+Flugfähigkeit, Todesberührung
+Flugfähigkeit, Lebensverknüpfung
+Flugfähigkeit, Aufblitzen
+Flugfähigkeit, Fluchsicher
+Flugfähigkeit, Unzerstörbar
+Flugfähigkeit, Bedrohlich
+Flugfähigkeit, Reichweite
+Eile, Doppelschlag
+Eile, Trampelschaden
+Eile, Wachsamkeit
+Eile, Todesberührung
+Eile, Lebensverknüpfung
+Eile, Aufblitzen
+Eile, Fluchsicher
+Eile, Unzerstörbar
+Eile, Bedrohlich
+Eile, Reichweite
+Doppelschlag, Trampelschaden
+Doppelschlag, Wachsamkeit
+Doppelschlag, Todesberührung
+Doppelschlag, Lebensverknüpfung
+Doppelschlag, Aufblitzen
+Doppelschlag, Fluchsicher
+Doppelschlag, Unzerstörbar
+Doppelschlag, Bedrohlich
+Doppelschlag, Reichweite
+Trampelschaden, Wachsamkeit
+Trampelschaden, Todesberührung
+Trampelschaden, Lebensverknüpfung
+Trampelschaden, Aufblitzen
+Trampelschaden, Fluchsicher
+Trampelschaden, Unzerstörbar
+Trampelschaden, Bedrohlich
+Trampelschaden, Reichweite
+Wachsamkeit, Todesberührung
+Wachsamkeit, Lebensverknüpfung
+Wachsamkeit, Aufblitzen
+Wachsamkeit, Fluchsicher
+Wachsamkeit, Unzerstörbar
+Wachsamkeit, Bedrohlich
+Wachsamkeit, Reichweite
+Todesberührung, Lebensverknüpfung
+Todesberührung, Aufblitzen
+Todesberührung, Fluchsicher
+Todesberührung, Unzerstörbar
+Todesberührung, Bedrohlich
+Todesberührung, Reichweite
+Lebensverknüpfung, Aufblitzen
+Lebensverknüpfung, Fluchsicher
+Lebensverknüpfung, Unzerstörbar
+Lebensverknüpfung, Bedrohlich
+Lebensverknüpfung, Reichweite
+Aufblitzen, Fluchsicher
+Aufblitzen, Unzerstörbar
+Aufblitzen, Bedrohlich
+Aufblitzen, Reichweite
+Fluchsicher, Unzerstörbar
+Fluchsicher, Bedrohlich
+Fluchsicher, Reichweite
+Unzerstörbar, Bedrohlich
+Unzerstörbar, Reichweite
+Bedrohlich, Reichweite
